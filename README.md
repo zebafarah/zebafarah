@@ -9,7 +9,7 @@
 
 A Coach/Trainer/Mentor @ heart. Levels of Expertise : Leadership, Business Communication, Soft Skills, Agile/Scrum Methodologies, DevOps Enthusiast, Cloud Community Enthusiast, marching heads-on to become an undisputed DevOps Leader. 
 
-A Whopping 9 years experience in a variety of fields- Marketing, Operations, Relationship Manager, Outsourcing, Mentoring, Leadership, Training etc. giving Jack a run for his money.. Ha ha. You name it!! 
+A Whopping 9 years experience in a variety of fields- Marketing, Operations, Relationship Manager, Outsourcing, Mentoring, Leadership, Training etc. giving Jack a run for his money. You name it!! 
 
 
 ### 🔍 Interests
