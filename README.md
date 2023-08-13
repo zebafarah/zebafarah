@@ -2,8 +2,7 @@
 
 
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-utekar/)
-![](https://komarev.com/ghpvc/?username=Sagar2366&color=green&style=for-the-badge)
+
 
 ### Hi there, I'm Farah Zeba 😃👋
 
@@ -36,7 +35,7 @@ A Whopping 9 years experience in a variety of fields- Marketing, Operations, Rel
 
 
 
-<a href="https://twitter.com/me_sagar_utekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sagar2366" height="30" width="40" /></a>
+
 
 
 
