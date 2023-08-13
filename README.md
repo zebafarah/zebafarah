@@ -1,28 +1,31 @@
-![cover image](./assets/tools_intro.jpg)
 
-[![twitter badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me_sagar_utekar) 
-[![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me_sagar_utekar) 
+
+
+
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-utekar/)
 ![](https://komarev.com/ghpvc/?username=Sagar2366&color=green&style=for-the-badge)
 
-### Hi there, I'm Sagar Utekar 😃👋
-Hi, meet Sagar Utekar, YouTuber - @LearnWithSagar2, and an experienced Site Reliability Engineer @VMWare and Technical Trainer, fitness enthusiast, passionate about teaching (DevOps, SRE, Cloud, Open Source).
+### Hi there, I'm Farah Zeba 😃👋
 
-My vision is to provide top notch education for free/minimal cost to help learners to transition their career into IT, irrespective of their background. 
+A Coach/Trainer/Mentor @ heart. Levels of Expertise : Leadership, Business Communication, Soft Skills, Agile/Scrum Methodologies, DevOps Enthusiast, Cloud Community Enthusiast, marching heads-on to become an undisputed DevOps Leader. 
 
-Sagar will be teacher, trainer, coach , mentor. He has over 6+ years of experience and feels proud and honoured to train more than 8000+ learners to get their dream jobs in IT.
+A Whopping 9 years experience in a variety of fields- Marketing, Operations, Relationship Manager, Outsourcing, Mentoring, Leadership, Training etc. giving Jack a run for his money.. Ha ha. You name it!! 
 
-Sagar is also Docker Pune, CNCF Pune & Grafana Pune community leader.
 
 ### 🔍 Interests
 
-* Go / Python / Shell Scripting
-* Container & Kubernetes Administration + Security
-* Cloud Native
-* Open Source
 * DevOps
+* Cloud (AWS)
+* Git/Github
+* Containerization (Docker, DockerHub)
+* Orchestration (Jenkins)
+* Configuration (Ansible)
+* Monitoring (AWS CloudWatch, Nagios)
+* Python / Shell Scripting
+* Kubernetes Administration 
+* Open Source
 * Infrastructure as a Code (IaaC)
-* Site Reliability Engineering (SRE)
+
 
 ### ✈️ Get in touch
 
