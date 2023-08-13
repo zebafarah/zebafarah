@@ -31,7 +31,12 @@ A Whopping 9 years experience in a variety of fields- Marketing, Operations, Rel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/farah-zeba-b0b4b0260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sagar2366" height="30" width="40" /></a> <a href="https://www.instagram.com/me_sagar_utekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sagar2366" height="30" width="40" /></a> <a href="https://twitter.com/me_sagar_utekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sagar2366" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farah-zeba-b0b4b0260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sagar2366" height="30" width="40" /></a>
+
+
+
+
+<a href="https://twitter.com/me_sagar_utekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sagar2366" height="30" width="40" /></a>
 
 
 
